@@ -1,0 +1,19 @@
+{
+  "name": "web-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "faker": "^5.5.3",
+    "typescript": "^5.1.3",
+    "wd": "^1.14.0"
+  }
+}

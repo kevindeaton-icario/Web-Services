@@ -1,0 +1,17 @@
+{
+    "activities": {
+        "baseUrl": "http://www.boredapi.com",
+        "uris": {
+            "activity": "/api/activity/"
+
+        }
+    },
+    "booking": {
+        "baseUrl": "https://restful-booker.herokuapp.com",
+        "uris": {
+            "auth": "/auth",
+            "booking": "/booking",
+            "ping": "/ping"
+        }
+    }
+}
