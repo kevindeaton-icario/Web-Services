@@ -9,8 +9,8 @@ const clientPlaywrightVersion = cp
 // const BrowserStackLocal = require('browserstack-local');
 const util = require("util");
 
-const BROWSERSTACK_USERNAME = "hezdfwhstydfn1";
-const BROWSERSTACK_ACCESS_KEY = "xAB5o4zXzjmZNpRxjpF6";
+const BROWSERSTACK_USERNAME = "kevindeaton_ZOLscW";
+const BROWSERSTACK_ACCESS_KEY = "iZ59KqfiJstaRFqUKNZS";
 
 /**
  * 
